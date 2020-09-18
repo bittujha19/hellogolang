@@ -1,7 +1,8 @@
 # hellogolang
 My practise Golang Repo
 
-To use this repo dir on your local repo create a .bashrc file under your home directory mentioned below :
+To use this repo dir on your local system 
+create a .bashrc file under your home directory  and append below mentioned lines:
 
 ```
 
